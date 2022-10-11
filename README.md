@@ -3,11 +3,11 @@
 
 ```js
 const Martín  = {
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node JS, Express, Sequelize, PostgreSQL, MongoDb, Firebase, Postman, Git, Bootstrap, Heroku, Vercel],
   mentor: 'soyHenry',
   projects: ['Arterest', 'B. Goode', 'PI FOODS', 'PI Pokemons', 'Weather App'],
-  inProgress: [Python, React Native, NextJs, Java, MongoDB ]
+  inProgress: [Python, React Native, NextJs, Java, Typescript ]
 }
 ```
 
@@ -30,7 +30,7 @@ const Martín  = {
 <p/>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src ="https://res.cloudinary.com/deqxuoyrc/image/upload/v1665512069/mnaheavyIT_kszhif.svg"></img>
+<img algign="top" src ="https://res.cloudinary.com/deqxuoyrc/image/upload/v1665512069/mnaheavyIT_kszhif.svg"></img>
 
 # Main Projects 🚀
 
