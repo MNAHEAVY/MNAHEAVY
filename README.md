@@ -4,13 +4,13 @@
 ```js
 const Martín  = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node JS, Jest,  Express, Sequelize, PostgreSQL, Firebase, Postman, Git, Bootstrap, Heroku, Vercel],
+  tools: [React, Redux, Node JS, Express, Sequelize, PostgreSQL, MongoDb, Firebase, Postman, Git, Bootstrap, Heroku, Vercel],
   mentor: 'soyHenry',
-  projects: ['PI Pokemons', 'Weather App'],
+  projects: ['Arterest', 'B. Goode', 'PI FOODS', 'PI Pokemons', 'Weather App'],
   inProgress: [Python, React Native, NextJs, Java, MongoDB ]
 }
 ```
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Typescript, React Native, Python**
 
 - 💬 Ask me about **Web Development**
 
