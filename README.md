@@ -23,7 +23,7 @@ const Martín  = {
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg
+<img src = "https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg" </img>
 
 
 # Main Projects 🚀
