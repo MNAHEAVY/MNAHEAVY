@@ -190,11 +190,13 @@ Lo realice consumiendo una API en donde aplique filtros (por tipo de Pokemon) y 
 <br/>
 
 <br/>
-<p align='center'>
-  <img width=96% src='./img/poke1.png'  alt="PIKAPIKAPP LANDING" />
-  <img width=96% src='./img/poke2.png'  alt="PIKAPIKAPP HOME" />
-  <img width=30% src='./img/poke3.png'  alt="PIKAPIKAPP DETAIL" />
-  <img width=50% src='./img/poke4.png'  alt="CREATION FORM" />
-</p>
+
+## My repositories 👇
+
+<p>
+
+📂 Repositories : <a href="https://github.com/MNAHEAVY?tab=repositories" about="_blank">Here!<a/>
+
+<p/>
 
 
