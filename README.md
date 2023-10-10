@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Kotlin && Flutter**
 
-- 💬 Ask me about **Web Development, Frontend Development, Mobile**
+- 💬 Ask me about [Web, Frontend & Mobile Development]
 
- -📫 Connect with me:
+-📫 Connect with me:
 <p>
     <a href="https://mnaheavy@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
